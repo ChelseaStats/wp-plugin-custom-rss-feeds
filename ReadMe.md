@@ -12,7 +12,7 @@ This plugin is not ready to be uploaded on to a live server. You need to follow 
   3 Once content put this in your mu-plugins folder
 
 
-^Extra feeds' action calls can be added to `add_my_feeds` function
+^Extra feed action calls can be added to `add_my_feeds` function
 
 ###### Description ######
 
@@ -34,4 +34,4 @@ It is recommended that this plugin file is put into your mu-plugins folder insid
 
 ###### Changelog ######
 
-- 1.0 Initial release
+- 1.0.0 Initial release
