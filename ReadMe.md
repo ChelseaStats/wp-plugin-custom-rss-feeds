@@ -16,13 +16,14 @@ This plugin is not ready to be uploaded on to a live server. You need to follow 
 
 ###### Description ######
 
-Things you can do
-  -Create a custom rss feed
-  -Add custom post type to rss feed
-  -Change rss generator
-  -Add footer / extra content to rss
-  -Disable old feeds and point them to rss2
-  -Define a default feed.
+Things you can do:
+
+  +Create a custom rss feed
+  +Add custom post type to rss feed
+  +Change rss generator
+  +Add footer / extra content to rss
+  +Disable old feeds and point them to rss2
+  +Define a default feed.
 
 ###### Contributing ######
 
